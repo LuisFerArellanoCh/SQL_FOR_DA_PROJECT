@@ -1,4 +1,4 @@
-# SQL for Data Analytics
+# Exploring the Data Analyst/Data Scientist Job Market with SQL
 ## Introduction
 Welcome to my first approach to Data Analysis📊! 
 
