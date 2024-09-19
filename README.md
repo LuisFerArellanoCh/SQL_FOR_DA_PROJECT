@@ -375,7 +375,7 @@ ORDER BY
 LIMIT 5
 ```
 What I found:
-![4q1](assets\4q1.jpg)
+![](assets/4q1.jpg)
 
 ```sql
 --Second query: DATA ANALYST (MX-US-CN)
