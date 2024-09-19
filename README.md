@@ -402,7 +402,7 @@ LIMIT 5
 
 ```
 What I found:
-![](assets\4q2.jpg)
+![](assets/4q2.jpg)
 
 **Comparing Mexico-only vs Mexico + US and Canada:**
 
@@ -428,7 +428,7 @@ ORDER BY
 LIMIT 5
 ```
 What I found:
-![](assets\4q3.jpg)
+![](assets/4q3.jpg)
 
 ```sql
 --Fourth query: DATA SCIENTIST (MX-US-CN)
@@ -454,7 +454,7 @@ ORDER BY
 LIMIT 5
 ```
 What I found:
-![](assets\4q4.jpg)
+![](assets/4q4.jpg)
 
 **Similar trends...** 
 
@@ -484,7 +484,7 @@ ORDER BY
 LIMIT 25
 ```
 What I found:
-![](assets\Fq1.jpg)
+![](assets/Fq1.jpg)
 
 ```sql
 --Second query: DATA ANALYST (MX-US-CN)
@@ -510,13 +510,13 @@ ORDER BY
 LIMIT 25
 ```
 What I found:
-![](assets\Fq2.jpg)
+![](assets/Fq2.jpg)
 
 **Comparing Mexico-only vs Mexico + US and Canada:**
 - The highest-paying skill in the second query results (Mexico, US, Canada) is **PySpark** at $208,172, significantly higher than **Scala** at $147,500 from the first query result (Mexico only), highlighting the broader salary range in the region.
 - Skills like **PySpark**, **Bitbucket**, **Couchbase**, **Watson** or **Gitlab** that appear in the top 25 from the second query are not listed in the top 25 from the first one, which suggests that the North American market puts more emphasis on advanced data processing, cloud technologies, and collaborative tools compared to the mexican market.    
 - The next chart shows skills that appear in both first and second query results:
-![](assets\ft1.png)
+![](assets/ft1.png)
 
 - **Scala** is a skill that is, in average, better paid in Mexico compared to the broader North American market. However, it is the exact opposite for the rest of skills (**Pandas**, **NumPy** and **Swift**), which show a substantial salary increase as seen in the results retrieved from the 3 countries.
 
@@ -544,7 +544,7 @@ ORDER BY
 LIMIT 25
 ```
 What I found:
-![](assets\Fq3.jpg)
+![](assets/Fq3.jpg)
 
 ```sql
 --Fourth query: DATA SCIENTIST (MX-US-CN)
@@ -570,7 +570,7 @@ ORDER BY
 LIMIT 25
 ```
 What I found:
-![](assets\Fq4.jpg)
+![](assets/Fq4.jpg)
 
 **Different trends...**
 - The top 25 skills from the third query (Mexico) suggest a focus on traditional data science tools (**SQL**, **Python**, **R**, **Pandas**) as well as a strong presence of visualization libraries (**Seaborn**, **Matplotlib**).
